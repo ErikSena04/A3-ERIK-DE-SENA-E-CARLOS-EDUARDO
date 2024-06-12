@@ -1,0 +1,35 @@
+.relogio {
+  box-shadow: 8px 9px 22px rgba(0, 0, 0, 0.4);
+  border-radius: 8px;
+  display: flex;
+  gap: 48px;
+  padding: 32px;
+  max-width: max-content;
+  margin: 32px auto;
+}
+
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: max-content;
+  background-color: rgba(5, 5, 5, 0.9);
+  width: 225px;
+  height: 225px;
+  border-radius: 8px;
+  box-shadow: 8px 9px 22px rgba(0, 0, 0, 0.6);
+  gap: 16px;
+}
+
+.display-number {
+  font-size: 90px;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+
+.display-text {
+  color: white;
+  font-family: "Inter", sans-serif;
+  font-size: 19px;
+}

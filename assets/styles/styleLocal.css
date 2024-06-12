@@ -1,0 +1,15 @@
+body {
+  color: white;
+}
+
+.titulo {
+  font-size: clamp(8px, 8vw, 24px);
+}
+
+.container {
+  padding: 0 8%;
+}
+
+.imagem-frente {
+  max-width: 100%;
+}

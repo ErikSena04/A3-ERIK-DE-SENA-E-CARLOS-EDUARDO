@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+.buffet1 {
+  height: 450px;
+  margin: 16px;
+}
+.buffet2 {
+  height: 450px;
+  margin: 16px;
+}
+.buffet3 {
+  height: 450px;
+  margin: 16px;
+}
+.buffet4 {
+  height: 450px;
+  margin: 16px;
+}
+body {
+  color: white;
+  text-align: center;
+  font-size: 0 32px;
+}
